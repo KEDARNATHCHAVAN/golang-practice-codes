@@ -1,10 +1,10 @@
 # Golang-practice-codes.
- ## About Go.
+ ## About Go:
  * Go is a statically types language. <br>
  * tall varibles have assingned types. <br>
  * you can set types explicitly or implicitly. <br>
 
- ## Datatypes. 
+ ## Datatypes:
  * bool - true, false
  * string - collection of characters
  * integers - uint8, uint16, uint32, uint64
