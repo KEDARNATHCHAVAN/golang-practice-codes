@@ -43,7 +43,7 @@
  ## Memory management
 * Go runtime is statically linked to application
 * memory is allocated and deallocated automatically
-* use make() or new() to initialize maps, slices and channels
+* use `make()` or `new()` to initialize maps, slices and channels
     
     * `new()`
     1. allocates memory but does not initialize memory
